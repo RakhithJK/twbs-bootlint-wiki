@@ -10,13 +10,13 @@
 * [[W007]] (`<button>` missing `type` attribute)
 
 ### Errors
-* [[E001]]
-* [[E002]]
-* [[E003]]
-* [[E004]]
-* [[E005]]
-* [[E006]]
-* [[E007]]
+* [[E001]] (HTML5 `DOCTYPE`)
+* [[E002]] (Bootstrap v2 grid)
+* [[E003]] (misplaced `.row`)
+* [[E004]] (nested containers)
+* [[E005]] (`.row.col-*-*`)
+* [[E006]] (non-`<input>` `.form-control` within `.input-group`)
+* [[E007]] (`bootstrap.js` & `bootstrap.min.js`)
 * [[E008]]
 * [[E009]]
 * [[E010]]
