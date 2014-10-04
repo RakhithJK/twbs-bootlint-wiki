@@ -26,16 +26,16 @@
 * [[E014]]
 * [[E015]]
 * [[E016]]
-* [[E017]]
-* [[E018]]
+* [[E017]] (`.checkbox`)
+* [[E018]] (`.radio`)
 * [[E019]]
 * [[E020]]
-* [[E021]]
-* [[E022]]
-* [[E023]]
-* [[E024]]
-* [[E025]]
-* [[E026]]
-* [[E027]]
-* [[E028]]
+* [[E021]] (`.active` & `[checked]`)
+* [[E022]] (modal within another component)
+* [[E023]] (wrong `.panel-body` parent)
+* [[E024]] (wrong `.panel-heading` parent)
+* [[E025]] (wrong `.panel-footer` parent)
+* [[E026]] (wrong `.panel-title` parent)
+* [[E027]] (`table.table-responsive`)
+* [[E028]] (`.form-control-feedback` missing `.has-feedback`)
 * [[E029]]
