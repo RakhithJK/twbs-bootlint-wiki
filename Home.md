@@ -17,7 +17,7 @@
 * [[E005]] (`.row.col-*-*`)
 * [[E006]] (non-`<input>` `.form-control` within `.input-group`)
 * [[E007]] (`bootstrap.js` & `bootstrap.min.js`)
-* [[E008]]
+* [[E008]] (tooltip/popover in `.btn-group` requires `container: 'body'`)
 * [[E009]] (forgot about `input-group-sm`/`input-group-lg`)
 * [[E010]] (input group with multiple `.form-control`s)
 * [[E011]] (`.form-group.input-group`)
@@ -25,11 +25,11 @@
 * [[E013]] (row children must be columns)
 * [[E014]] (column parent must be a row)
 * [[E015]] (multiple add-ons on a single side of an input group)
-* [[E016]]
+* [[E016]] (dropdown within button group)
 * [[E017]] (`.checkbox`)
 * [[E018]] (`.radio`)
-* [[E019]]
-* [[E020]]
+* [[E019]] (`.checkbox-inline`)
+* [[E020]] (`.radio-inline`)
 * [[E021]] (`.active` & `[checked]`)
 * [[E022]] (modal within another component)
 * [[E023]] (wrong `.panel-body` parent)
@@ -38,4 +38,4 @@
 * [[E026]] (wrong `.panel-title` parent)
 * [[E027]] (`table.table-responsive`)
 * [[E028]] (`.form-control-feedback` missing `.has-feedback`)
-* [[E029]]
+* [[E029]] (redundant grid column classes)
