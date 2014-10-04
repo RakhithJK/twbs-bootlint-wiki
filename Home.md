@@ -18,13 +18,13 @@
 * [[E006]] (non-`<input>` `.form-control` within `.input-group`)
 * [[E007]] (`bootstrap.js` & `bootstrap.min.js`)
 * [[E008]]
-* [[E009]]
-* [[E010]]
-* [[E011]]
-* [[E012]]
-* [[E013]]
-* [[E014]]
-* [[E015]]
+* [[E009]] (forgot about `input-group-sm`/`input-group-lg`)
+* [[E010]] (input group with multiple `.form-control`s)
+* [[E011]] (`.form-group.input-group`)
+* [[E012]] (`.input-group.col-*-*`)
+* [[E013]] (row children must be columns)
+* [[E014]] (column parent must be a row)
+* [[E015]] (multiple add-ons on a single side of an input group)
 * [[E016]]
 * [[E017]] (`.checkbox`)
 * [[E018]] (`.radio`)
