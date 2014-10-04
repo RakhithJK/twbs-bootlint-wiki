@@ -1,13 +1,13 @@
 ## Lint Problem ID Index
 
 ### Warnings
-* [[W001]]
-* [[W002]]
-* [[W003]]
-* [[W004]]
-* [[W005]]
-* [[W006]]
-* [[W007]]
+* [[W001]] (`<meta charset="UTF-8">`)
+* [[W002]] (X-UA-Compatible)
+* [[W003]] (`<meta name="viewport">`)
+* [[W004]] (deprecated remote modal)
+* [[W005]] (jQuery)
+* [[W006]] (disabled tooltip or popover)
+* [[W007]] (`<button>` missing `type` attribute)
 
 ### Errors
 * [[E001]]
