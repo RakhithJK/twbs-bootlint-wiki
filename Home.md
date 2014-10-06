@@ -39,3 +39,5 @@
 * [[E027]] (`table.table-responsive`)
 * [[E028]] (`.form-control-feedback` missing `.has-feedback`)
 * [[E029]] (redundant grid column classes)
+* [[E030]] (`.glyphicon-*` without `.glyphicon`)
+* [[E031]] (`.glyphicon` on element with content or children)
