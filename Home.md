@@ -18,7 +18,7 @@
 * [[E005]] (`.row.col-*-*`)
 * [[E006]] (non-`<input>` `.form-control` within `.input-group`)
 * [[E007]] (`bootstrap.js` & `bootstrap.min.js`)
-* E008 replaced by W008
+* E008 was replaced by W008
 * [[E009]] (forgot about `input-group-sm`/`input-group-lg`)
 * [[E010]] (input group with multiple `.form-control`s)
 * [[E011]] (`.form-group.input-group`)
