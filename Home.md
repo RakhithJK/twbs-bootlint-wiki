@@ -8,6 +8,7 @@
 * [[W005]] (jQuery)
 * [[W006]] (disabled tooltip or popover)
 * [[W007]] (`<button>` missing `type` attribute)
+* [[W008]] (tooltip/popover in `.btn-group` requires `container: 'body'`)
 
 ### Errors
 * [[E001]] (HTML5 `DOCTYPE`)
@@ -17,7 +18,6 @@
 * [[E005]] (`.row.col-*-*`)
 * [[E006]] (non-`<input>` `.form-control` within `.input-group`)
 * [[E007]] (`bootstrap.js` & `bootstrap.min.js`)
-* [[E008]] (tooltip/popover in `.btn-group` requires `container: 'body'`)
 * [[E009]] (forgot about `input-group-sm`/`input-group-lg`)
 * [[E010]] (input group with multiple `.form-control`s)
 * [[E011]] (`.form-group.input-group`)
