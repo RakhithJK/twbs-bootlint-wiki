@@ -42,3 +42,4 @@
 * [[E029]] (redundant grid column classes)
 * [[E030]] (`.glyphicon-*` without `.glyphicon`)
 * [[E031]] (`.glyphicon` on element with content or children)
+* [[E032]] (incorrectly structured modal markup)
