@@ -44,4 +44,5 @@
 * [[E031]] (`.glyphicon` on element with content or children)
 * [[E032]] (incorrectly structured modal markup)
 * [[E033]] Reserved for https://github.com/twbs/bootlint/pull/136
-* [[E034]] Reserved for https://github.com/twbs/bootlint/pull/136
+* [[E034]] Also reserved for https://github.com/twbs/bootlint/pull/136
+* [[E035]] Reserved for https://github.com/twbs/bootlint/pull/139
