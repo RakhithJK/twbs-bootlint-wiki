@@ -47,3 +47,4 @@
 * [[E033]] (`.alert` with dismiss button missing `.alert-dismissible`)
 * [[E034]] (`.close` button is present but isn't first element in `.alert`)
 * [[E035]] (`.form-horizontal` or `.form-inline` on `.form-group`)
+* [[E036]] Reserved for https://github.com/twbs/bootlint/pull/138
