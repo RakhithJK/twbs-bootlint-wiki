@@ -10,6 +10,7 @@
 * [[W007]] (`<button>` missing `type` attribute)
 * [[W008]] (tooltip/popover in `.btn-group` requires `container: 'body'`)
 * [[W009]] Reserved for https://github.com/twbs/bootlint/pull/143
+* [[W010]] Reserved for https://github.com/twbs/bootlint/pull/153
 
 ### Errors
 * [[E001]] (HTML5 `DOCTYPE`)
