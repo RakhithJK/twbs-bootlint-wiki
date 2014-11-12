@@ -48,4 +48,4 @@
 * [[E033]] (`.alert` with dismiss button missing `.alert-dismissible`)
 * [[E034]] (`.close` button is present but isn't first element in `.alert`)
 * [[E035]] (`.form-horizontal` or `.form-inline` on `.form-group`)
-* [[E036]] (Multiple `.btn`s or `.dropdown-menus` in one `.input-group-btn`)
+* [[E036]] (Multiple `.btn`s or `.dropdown-menu`s in one `.input-group-btn`)
