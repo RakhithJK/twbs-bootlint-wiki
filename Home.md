@@ -9,7 +9,7 @@
 * [[W006]] (disabled tooltip or popover)
 * [[W007]] (`<button>` missing `type` attribute)
 * [[W008]] (tooltip/popover in `.btn-group` requires `container: 'body'`)
-* [[W009]] Unassigned
+* [[W009]] (empty spacer column)
 * [[W010]] (`.pull-left` or `.pull-right` in `.media`)
 
 ### Errors
