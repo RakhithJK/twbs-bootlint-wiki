@@ -50,3 +50,4 @@
 * [[E035]] (`.form-horizontal` or `.form-inline` on `.form-group`)
 * [[E036]] (Multiple `.btn`s or `.dropdown-menu`s in one `.input-group-btn`)
 * [[E037]] (Reserved for #166)
+* [[E038]] (Reserved for #163)
