@@ -13,7 +13,7 @@
 * [[W010]] (`.pull-left` or `.pull-right` in `.media`)
 
 ### Errors
-* [[E001]] (HTML5 `DOCTYPE`)
+* [[E001]] (HTML5 `DOCTYPE` required)
 * [[E002]] (Bootstrap v2 grid)
 * [[E003]] (misplaced `.row`)
 * [[E004]] (nested containers)
