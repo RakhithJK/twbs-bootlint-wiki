@@ -11,6 +11,7 @@
 * [[W008]] (tooltip/popover in `.btn-group` requires `container: 'body'`)
 * [[W009]] (empty spacer column)
 * [[W010]] (`.pull-left` or `.pull-right` in `.media`)
+* [[W011]] (Reserved for #163)
 
 ### Errors
 * [[E001]] (HTML5 `DOCTYPE` required)
@@ -50,4 +51,3 @@
 * [[E035]] (`.form-horizontal` or `.form-inline` on `.form-group`)
 * [[E036]] (Multiple `.btn`s or `.dropdown-menu`s in one `.input-group-btn`)
 * [[E037]] (Reserved for #166)
-* [[E038]] (Reserved for #163)
