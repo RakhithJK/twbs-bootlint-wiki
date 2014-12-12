@@ -11,8 +11,9 @@
 * [[W008]] (tooltip/popover in `.btn-group` requires `container: 'body'`)
 * [[W009]] (empty spacer column)
 * [[W010]] (`.pull-left` or `.pull-right` in `.media`)
-* [[W011]] (Reserved for #163)
+* [[W011]] (Reserved for #188 / #189)
 * [[W012]] (Reserved for #167 / #198)
+* [[W013]] (Reserved for #163 / #194)
 
 ### Errors
 * [[E001]] (HTML5 `DOCTYPE` required)
