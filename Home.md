@@ -12,6 +12,7 @@
 * [[W009]] (empty spacer column)
 * [[W010]] (`.pull-left` or `.pull-right` in `.media`)
 * [[W011]] (Reserved for #163)
+* [[W012]] (Reserved for #167 / #198)
 
 ### Errors
 * [[E001]] (HTML5 `DOCTYPE` required)
