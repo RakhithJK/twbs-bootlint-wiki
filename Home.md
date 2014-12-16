@@ -13,7 +13,7 @@
 * [[W010]] (`.pull-left` or `.pull-right` in `.media`)
 * [[W011]] (Reserved for #188 / #189)
 * [[W012]] (Reserved for #167 / #198)
-* [[W013]] (Reserved for #163 / #194)
+* [[W013]] Outdated version of Bootstrap
 
 ### Errors
 * [[E001]] (HTML5 `DOCTYPE` required)
