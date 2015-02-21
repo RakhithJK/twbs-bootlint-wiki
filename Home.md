@@ -54,3 +54,4 @@
 * [[E036]] (Multiple `.btn`s or `.dropdown-menu`s in one `.input-group-btn`)
 * [[E037]] (`.col-*-0` classes)
 * [[E038]] (`.media-left`/`.media-right` outside of `.media`)
+* [[E039]] (`.navbar-left`/`.navbar-right` outside of `.navbar`)
