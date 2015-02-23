@@ -56,3 +56,4 @@
 * [[E038]] (`.media-left`/`.media-right` outside of `.media`)
 * [[E039]] (`.navbar-left`/`.navbar-right` outside of `.navbar`)
 * [[E040]] (`.modal.hide`)
+* [[E041]] (incorrectly structured carousel markup)
