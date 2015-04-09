@@ -60,3 +60,4 @@
 * [[E040]] (`.modal.hide`)
 * [[E041]] (incorrectly structured carousel markup)
 * [[E042]] (`.form-control` on wrong element or `<input>` of wrong `type`)
+* [[E043]] Reserved for #273
