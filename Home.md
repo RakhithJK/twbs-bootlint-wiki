@@ -62,3 +62,4 @@
 * [[E042]] (`.form-control` on wrong element or `<input>` of wrong `type`)
 * [[E043]] Reserved for #273
 * [[E044]] Reserved for #274
+* [[E045]] Reserved for #277 / #280
