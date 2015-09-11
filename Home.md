@@ -53,7 +53,7 @@
 * [[E033]] (`.alert` with dismiss button missing `.alert-dismissible`)
 * [[E034]] (`.close` button is present but isn't first element in `.alert`)
 * [[E035]] (`.form-horizontal` or `.form-inline` on `.form-group`)
-* [[E036]] (Multiple `.btn`s or `.dropdown-menu`s in one `.input-group-btn`)
+* ~~[[E036]] (Multiple `.btn`s or `.dropdown-menu`s in one `.input-group-btn`)~~
 * [[E037]] (`.col-*-0` classes)
 * [[E038]] (`.media-left`/`.media-right` outside of `.media`)
 * [[E039]] (`.navbar-left`/`.navbar-right` outside of `.navbar`)
