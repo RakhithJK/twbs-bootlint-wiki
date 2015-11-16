@@ -64,3 +64,4 @@
 * [[E044]] Reserved for #274
 * [[E045]] (`.img-responsive` on non-`<img>`)
 * [[E046]] (`.modal` missing `[tabindex]`)
+* [[E047]] Reserved for #313
