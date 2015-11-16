@@ -63,3 +63,4 @@
 * [[E043]] (btn classes on `<a>`s within `.navbar-nav`s)
 * [[E044]] Reserved for #274
 * [[E045]] (`.img-responsive` on non-`<img>`)
+* [[E046]] (`.modal` missing `[tabindex]`)
