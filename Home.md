@@ -61,7 +61,7 @@
 * [[E041]] (incorrectly structured carousel markup)
 * [[E042]] (`.form-control` on wrong element or `<input>` of wrong `type`)
 * [[E043]] (btn classes on `<a>`s within `.navbar-nav`s)
-* [[E044]] Reserved for #274
+* [[E044]] (`.input-group` must have a `.form-control` and either an add-on or a btn)
 * [[E045]] (`.img-responsive` on non-`<img>`)
 * [[E046]] (`.modal` missing `[tabindex]`)
 * [[E047]] Reserved for #313
