@@ -65,6 +65,6 @@
 * [[E044]] (`.input-group` must have a `.form-control` and either an add-on or a btn)
 * [[E045]] (`.img-responsive` on non-`<img>`)
 * [[E046]] (`.modal` missing `[tabindex]`)
-* [[E047]] Reserved for #313
+* [[E047]] (Used `.btn` on something other than an `<a>`/`<button>`/`<input>`/`<label>`)
 * [[E048]] (`.modal` missing `[role="dialog"]`)
 * [[E049]] (`.modal-dialog` missing `[role="document"]`)
