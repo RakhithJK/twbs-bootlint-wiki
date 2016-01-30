@@ -16,7 +16,7 @@
 * [[W013]] (Outdated version of Bootstrap)
 * [[W014]] (Incorrect carousel targets)
 * [[W015]] (Unreleased major version of Bootstrap)
-* [[W016]] Reserved for #294
+* [[W016]] (Perhaps you meant to use the `[disabled]` attribute instead of the `.disabled` class on a `.btn`)
 
 ### Errors
 * [[E001]] (HTML5 `DOCTYPE` required)
