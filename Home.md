@@ -67,4 +67,4 @@
 * [[E046]] (`.modal` missing `[tabindex]`)
 * [[E047]] Reserved for #313
 * [[E048]] (`.modal` missing `[role="dialog"]`)
-* [[E049]] Reserved for #319
+* [[E049]] (`.modal-dialog` missing `[role="document"]`)
