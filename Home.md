@@ -1,6 +1,8 @@
 ## Lint Problem ID Index
 
 ### Warnings
+Warnings represents *potential* errors. They may have false-positives.
+
 * [[W001]] (`<meta charset="UTF-8">`)
 * [[W002]] (X-UA-Compatible)
 * [[W003]] (`<meta name="viewport">`)
@@ -20,6 +22,8 @@
 * [[W017]] (`<input>` missing `type` attribute)
 
 ### Errors
+Errors represent definite errors. Under the assumptions explained in [the "Caveats" section of the README](https://github.com/twbs/bootlint/blob/master/README.md#caveats), they should never have any false-positives.
+
 * [[E001]] (HTML5 `DOCTYPE` required)
 * [[E002]] (Bootstrap v2 grid)
 * [[E003]] (misplaced `.row`)
