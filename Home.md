@@ -1,7 +1,7 @@
 ## Lint Problem ID Index
 
 ### Warnings
-Warnings represents *potential* errors. They may have false-positives.
+Warnings represents *potential* errors. **They may have false-positives.**
 
 * [[W001]] (`<meta charset="UTF-8">`)
 * [[W002]] (X-UA-Compatible)
