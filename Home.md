@@ -73,3 +73,4 @@ Errors represent definite errors. Under the assumptions explained in [the "Cavea
 * [[E047]] (Used `.btn` on something other than an `<a>`/`<button>`/`<input>`/`<label>`)
 * [[E048]] (`.modal` missing `[role="dialog"]`)
 * [[E049]] (`.modal-dialog` missing `[role="document"]`)
+* [[E050]](`.form-group`s cannot be nested)
