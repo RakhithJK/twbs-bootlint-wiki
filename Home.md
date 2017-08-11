@@ -74,3 +74,5 @@ Errors represent definite errors. Under the assumptions explained in [the "Cavea
 * [[E048]] (`.modal` missing `[role="dialog"]`)
 * [[E049]] (`.modal-dialog` missing `[role="document"]`)
 * [[E050]](`.form-group`s cannot be nested)
+* [[E051]](`.pull-right` and `.pull-left` classes, and manual style attributes with `float: left` or `float: right` are not allowed on `.col-*-*` elements)
+* [[E052]](`.pull-right` and `.pull-left` classes, and manual `style` attributes with `float: left` or `float: right` are not allowed on `.row` elements)
