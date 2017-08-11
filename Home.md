@@ -1,6 +1,7 @@
 ## Lint Problem ID Index
 
 ### Warnings
+
 Warnings represents *potential* errors. **They may have false-positives.**
 
 * [[W001]] (`<meta charset="UTF-8">`)
@@ -20,8 +21,10 @@ Warnings represents *potential* errors. **They may have false-positives.**
 * [[W015]] (Unreleased major version of Bootstrap)
 * [[W016]] (Perhaps you meant to use the `[disabled]` attribute instead of the `.disabled` class on a `.btn`)
 * [[W017]] (`<input>` missing `type` attribute)
+* [[W018]] (`.col-*-12` classes used alone are not useful)
 
 ### Errors
+
 Errors represent definite errors. Under the assumptions explained in [the "Caveats" section of the README](https://github.com/twbs/bootlint/blob/master/README.md#caveats), they should never have any false-positives.
 
 * [[E001]] (HTML5 `DOCTYPE` required)
