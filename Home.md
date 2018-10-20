@@ -81,7 +81,7 @@ Errors represent definite errors. Under the assumptions explained in [the "Cavea
 * [[E052]](`.pull-right` and `.pull-left` classes, and manual `style` attributes with `float: left` or `float: right` are not allowed on `.row` elements)
 
 
-## Lint Problem ID Index for v.1.x
+## Lint Problem ID Index for v.1.x (Bootlint for Bootstrap v4 and newer)
 
 ### Warnings
 
