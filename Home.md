@@ -88,7 +88,7 @@ Errors represent definite errors. Under the assumptions explained in [the "Cavea
 Warnings represents *potential* errors. **They may have false-positives.**
 
 * [[W001]] (`<meta charset="UTF-8">`)
-* [[W002]] (X-UA-Compatible)
+* ~~[[W002]] (X-UA-Compatible)~~
 * [[W003]] (`<meta name="viewport">`)
 * ~~[[W004]] (deprecated remote modal)~~
 * [[W005]] (jQuery)
@@ -96,12 +96,12 @@ Warnings represents *potential* errors. **They may have false-positives.**
 * [[W007]] (`<button>` missing `type` attribute)
 * [[W008]] (tooltip/popover in `.btn-group` requires `container: 'body'`)
 * [[W009]] (empty spacer column)
-* [[W010]] (`.pull-left` or `.pull-right` in `.media`)
+* ~~[[W010]] (`.pull-left` or `.pull-right` in `.media`)~~
 * [[W011]] (Reserved for #188 / #189)
 * [[W012]] (navbar missing inner container)
 * [[W013]] (Outdated version of Bootstrap)
 * [[W014]] (Incorrect carousel targets)
-* [[W015]] (Unreleased major version of Bootstrap)
+* ~~[[W015]] (Unreleased major version of Bootstrap)~~
 * [[W016]] (Perhaps you meant to use the `[disabled]` attribute instead of the `.disabled` class on a `.btn`)
 * [[W017]] (`<input>` missing `type` attribute)
 * [[W018]] (`.col-*-12` classes used alone are not useful)
@@ -111,7 +111,7 @@ Warnings represents *potential* errors. **They may have false-positives.**
 Errors represent definite errors. Under the assumptions explained in [the "Caveats" section of the README](https://github.com/twbs/bootlint/blob/master/README.md#caveats), they should never have any false-positives.
 
 * [[E001]] (HTML5 `DOCTYPE` required)
-* [[E002]] (Bootstrap v2 grid)
+* ~~[[E002]] (Bootstrap v2 grid)~~
 * [[E003]] (misplaced `.row`)
 * [[E004]] (nested containers)
 * [[E005]] (`.row.col-*-*`)
@@ -138,14 +138,14 @@ Errors represent definite errors. Under the assumptions explained in [the "Cavea
 * [[E027]] (`table.table-responsive`)
 * [[E028]] (`.form-control-feedback` missing `.has-feedback`)
 * [[E029]] (redundant grid column classes)
-* [[E030]] (`.glyphicon-*` without `.glyphicon`)
-* [[E031]] (`.glyphicon` on element with content or children)
+* ~~[[E030]] (`.glyphicon-*` without `.glyphicon`)~~
+* ~~[[E031]] (`.glyphicon` on element with content or children)~~
 * [[E032]] (incorrectly structured modal markup)
 * [[E033]] (`.alert` with dismiss button missing `.alert-dismissible`)
 * [[E034]] (`.close` button is present but isn't first element in `.alert`)
 * [[E035]] (`.form-horizontal` or `.form-inline` on `.form-group`)
 * [[E037]] (`.col-*-0` classes)
-* [[E038]] (`.media-left`/`.media-right` outside of `.media`)
+* ~~[[E038]] (`.media-left`/`.media-right` outside of `.media`)~~
 * [[E039]] (`.navbar-left`/`.navbar-right` outside of `.navbar`)
 * ~~[[E040]] (`.modal.hide`)~~
 * [[E041]] (incorrectly structured carousel markup)
