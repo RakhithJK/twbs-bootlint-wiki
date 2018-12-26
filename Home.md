@@ -113,7 +113,7 @@ Errors represent definite errors. Under the assumptions explained in [the "Cavea
 * [[E001]] (HTML5 `DOCTYPE` required)
 * ~~[[E002]] (Bootstrap v2 grid)~~
 * [[E003]] (misplaced `.row`)
-* [[E004]] (nested containers)
+* ~~[[E004]] (nested containers)~~
 * [[E005]] (`.row.col-*-*`)
 * [[E006]] (non-`<input>` `.form-control` within `.input-group`)
 * [[E007]] (`bootstrap.js` & `bootstrap.min.js`)
